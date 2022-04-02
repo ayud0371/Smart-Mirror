@@ -24,3 +24,7 @@
 
 // Shader Information
 #define GLSL_VERSION 100
+
+// Music Widget Constants
+#define MAX_CIRCLES  64
+#define MAX_RECTANGLES  16
